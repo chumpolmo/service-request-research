@@ -1,0 +1,145 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+textarea {
+  width: 60%;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.entity {
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 4px;
+  position: relative;
+}
+
+.entity.PER {
+  background-color: #ffcccc;
+}
+
+.entity.LOC {
+  background-color: #ccffcc;
+}
+
+.entity.ORG {
+  background-color: #ccccff;
+}
+
+.entity.MISC {
+  background-color: #ffffe2;
+}
+
+.entity.B-ISSUE {
+  background-color: #fff1dc;
+}
+
+.entity.B-ROOM {
+  background-color: hsl(307, 100%, 97%);
+}
+
+.entity.B-EQUIPMENT {
+  background-color: #daffeb;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #fbfbfb;
+  border: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #efefef;
+}
+
+li a.active {
+  color: white;
+  background-color: #40c6ed;
+}
+
+.dropbtn {
+  background-color: #fbfbfb;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  text-align: left;
+  display: none;
+  position: absolute;
+  background-color: #fbfbfb;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+.dropdown-content a {
+  text-align: left;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #f1f1f1;}

@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.aLink {
+  color: #000000;
+  text-decoration: none;
+}
+
+.aLink:hover {
+  text-decoration: underline;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Unknown {
+  border-radius: 10px;
+  border: 1px solid #37b4da;
+  padding: 20px; 
+  width: 96%;
+  background-color: #e9f8fd;  
+}
+
+.High {
+  border-radius: 10px;
+  border: 1px solid #dd3838;
+  padding: 20px; 
+  width: 96%;
+  background-color: #ffe9e9;  
+}
+
+.Medium {
+  border-radius: 10px;
+  border: 1px solid #f1de13;
+  padding: 20px; 
+  width: 96%;
+  background-color: #fffcd6;  
+}
+
+.Low {
+  border-radius: 10px;
+  border: 1px solid #11da97;
+  padding: 20px; 
+  width: 96%;
+  background-color: #e6fff7;
+  position: static;
+}
+
+.my-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  border: 0px;
+  background-color: transparent;
+}
+.my-pagination button {
+  background-color: #37b4da;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.my-pagination button:hover {
+  background-color: #2a8ea5;
+}
+.my-pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+.my-pagination span {
+  margin: 0 10px;
+  font-size: 16px;
+}
+.my-pagination input {
+  width: 50px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+.my-pagination input[type="number"] {
+  width: 60px;
+}
+.my-pagination input[type="number"]:focus {
+  outline: none;
+  border-color: #37b4da;
+}

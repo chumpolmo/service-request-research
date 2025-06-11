@@ -1,0 +1,30 @@
+.my-pagination {
+  display: flex;
+  list-style: none;
+  padding: 0px;
+  border: 0px;
+  background-color: transparent;
+  margin-top: 0px;
+}
+
+.my-page a {
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  border-top: 5px solid #f0f0f0;
+}
+
+.my-active a {
+  color: #007bff;
+  font-weight: bold;
+  border-bottom: 5px solid #007bff;
+}
+
+.my-prev a, .my-next a {
+  font-weight: bold;
+}
+
+.my-disabled a {
+  opacity: 0.5;
+  pointer-events: none;
+}
