@@ -1,0 +1,83 @@
+{"text": "ห้อง 942 เครื่อง projector เชื่อมต่อ ผ่าน สาย hdmi ไม่ เสถียร", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 17, "end": 26, "label": "EQUIPMENT"}, {"start": 51, "end": 61, "label": "ISSUE"}]}
+{"text": "ห้อง 963 สัญญาณ wi-fi ติดๆ ดับๆ", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 16, "end": 21, "label": "EQUIPMENT"}, {"start": 22, "end": 31, "label": "ISSUE"}]}
+{"text": "ช่อง เสียบสายสัญญาณอินเทอร์เน็ตห้อง 982 ไม่ เสถียร", "entities": [{"start": 0, "end": 31, "label": "EQUIPMENT"}, {"start": 36, "end": 39, "label": "ROOM"}, {"start": 40, "end": 50, "label": "ISSUE"}]}
+{"text": "เก้าอี้ ล้อ ชำรุด หลาย ตัว ใน ห้อง 953 ใช้งาน ไม่ได้", "entities": [{"start": 0, "end": 7, "label": "EQUIPMENT"}, {"start": 35, "end": 38, "label": "ROOM"}, {"start": 39, "end": 52, "label": "ISSUE"}]}
+{"text": "คอมพิวเตอร์ ใน ห้อง 963 ใช้งาน ได้ไม่ดี", "entities": [{"start": 0, "end": 11, "label": "EQUIPMENT"}, {"start": 20, "end": 23, "label": "ROOM"}, {"start": 24, "end": 39, "label": "ISSUE"}]}
+{"text": "ปุ่มกด ลิฟต์อาคาร 9ใช้งาน ไม่ได้", "entities": [{"start": 0, "end": 12, "label": "EQUIPMENT"}, {"start": 12, "end": 19, "label": "ROOM"}, {"start": 19, "end": 32, "label": "ISSUE"}]}
+{"text": "ห้อง 962 ช่อง เสียบสายแลนไม่ ติด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 25, "label": "EQUIPMENT"}, {"start": 25, "end": 32, "label": "ISSUE"}]}
+{"text": "การ เชื่อมต่อ vpn ใน ห้อง 953 ไม่ ได้", "entities": [{"start": 14, "end": 17, "label": "EQUIPMENT"}, {"start": 26, "end": 29, "label": "ROOM"}, {"start": 30, "end": 37, "label": "ISSUE"}]}
+{"text": "ห้อง 983 ขา เก้าอี้ ชำรุด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 12, "end": 19, "label": "EQUIPMENT"}, {"start": 20, "end": 25, "label": "ISSUE"}]}
+{"text": "สาย vga ใน ห้อง 953 เชื่อมต่อ โปรเจคเตอร์ ไม่ ติด", "entities": [{"start": 16, "end": 19, "label": "ROOM"}, {"start": 30, "end": 41, "label": "EQUIPMENT"}, {"start": 42, "end": 49, "label": "ISSUE"}]}
+{"text": "aircontaining ห้อง 962 เปิด ไม่ติด", "entities": [{"start": 0, "end": 13, "label": "EQUIPMENT"}, {"start": 19, "end": 22, "label": "ROOM"}, {"start": 23, "end": 34, "label": "ISSUE"}]}
+{"text": "เครื่อง สำรอง ไฟ ใน ห้อง 942 เกิด เสียงดัง", "entities": [{"start": 25, "end": 28, "label": "ROOM"}, {"start": 34, "end": 42, "label": "ISSUE"}]}
+{"text": "อาคาร 9ชั้น4ห้องน้ำ ใช้งาน ไม่ได้", "entities": [{"start": 0, "end": 12, "label": "ROOM"}, {"start": 12, "end": 19, "label": "EQUIPMENT"}, {"start": 20, "end": 33, "label": "ISSUE"}]}
+{"text": "เครื่องพิมพ์ เอกสารหมึก หมด ใช้งาน ไม่ได้ใน ห้อง 950", "entities": [{"start": 0, "end": 19, "label": "EQUIPMENT"}, {"start": 28, "end": 41, "label": "ISSUE"}, {"start": 49, "end": 52, "label": "ROOM"}]}
+{"text": "ห้อง 961 เครื่องพิมพ์ เอกสารหมึก หมด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 28, "label": "EQUIPMENT"}, {"start": 28, "end": 36, "label": "ISSUE"}]}
+{"text": "เบรก เกอร์ไฟฟ้า off ใน ห้อง 942", "entities": [{"start": 0, "end": 10, "label": "EQUIPMENT"}, {"start": 16, "end": 19, "label": "ISSUE"}, {"start": 28, "end": 31, "label": "ROOM"}]}
+{"text": "ห้อง 941 สาย vga ที่ เชื่อมต่อ กับ เครื่อง โปรเจคเตอร์ใช้งาน ไม่ได้กับ คอมพิวเตอร์ บาง เครื่อง", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 35, "end": 54, "label": "EQUIPMENT"}, {"start": 54, "end": 67, "label": "ISSUE"}]}
+{"text": "เครื่อง โปรเจคเตอร์แสดง ไม่ เสถียรใน ห้อง 973", "entities": [{"start": 0, "end": 19, "label": "EQUIPMENT"}, {"start": 24, "end": 34, "label": "ISSUE"}, {"start": 42, "end": 45, "label": "ROOM"}]}
+{"text": "internet ใน ห้อง 953 ใช้งาน สะดุด และ ไม่ เสถียร", "entities": [{"start": 0, "end": 8, "label": "EQUIPMENT"}, {"start": 17, "end": 20, "label": "ROOM"}, {"start": 38, "end": 48, "label": "ISSUE"}]}
+{"text": "ห้อง 941 เบรก เกอร์ทริป ใช้งาน ระบบ ไฟฟ้า ไม่ ได้", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 19, "label": "EQUIPMENT"}, {"start": 42, "end": 49, "label": "ISSUE"}]}
+{"text": "ห้อง 952 แอร์ มี น้ำหยดเมื่อ เปิด ใช้งาน ไป ประมาณ 1 ชั่วโมง", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 13, "label": "EQUIPMENT"}, {"start": 14, "end": 23, "label": "ISSUE"}]}
+{"text": "สาย เ เลน ใช้งาน ไม่ได้หลาย จุด ใน ห้อง 953", "entities": [{"start": 10, "end": 23, "label": "ISSUE"}, {"start": 40, "end": 43, "label": "ROOM"}]}
+{"text": "เครื่องคอมพิวเตอร์ บาง เครื่อง ใช้งาน อินเทอร์เน็ต ไม่ ได้ใน ห้อง 953", "entities": [{"start": 0, "end": 18, "label": "EQUIPMENT"}, {"start": 51, "end": 58, "label": "ISSUE"}, {"start": 66, "end": 69, "label": "ROOM"}]}
+{"text": "เครื่องคอมพิวเตอร์ มี เสียงดังเป็น บางครั้ง ใน ห้อง 941", "entities": [{"start": 0, "end": 18, "label": "EQUIPMENT"}, {"start": 19, "end": 30, "label": "ISSUE"}, {"start": 52, "end": 55, "label": "ROOM"}]}
+{"text": "projector ห้อง 953 สี เพี้ยน", "entities": [{"start": 0, "end": 9, "label": "EQUIPMENT"}, {"start": 15, "end": 18, "label": "ROOM"}, {"start": 19, "end": 28, "label": "ISSUE"}]}
+{"text": "ไม่ พร้อมใช้งานเนื่องจาก เมาส์ มีปัญหา หลาย ชุด ใน ห้อง 962", "entities": [{"start": 0, "end": 15, "label": "ISSUE"}, {"start": 25, "end": 30, "label": "EQUIPMENT"}, {"start": 56, "end": 59, "label": "ROOM"}]}
+{"text": "อาคาร 9ชั้น4ห้องน้ำ มี พัสดุ และ ครุภัณฑ์ วาง ไว้ ทำให้ ใช้งาน ไม่ได้", "entities": [{"start": 0, "end": 12, "label": "ROOM"}, {"start": 12, "end": 19, "label": "EQUIPMENT"}, {"start": 56, "end": 69, "label": "ISSUE"}]}
+{"text": "ไฟ เปิด ไม่ติดหลาย ดวง ใน ห้อง 961", "entities": [{"start": 3, "end": 14, "label": "ISSUE"}, {"start": 31, "end": 34, "label": "ROOM"}]}
+{"text": "เก้าอี้ ชำรุด หลาย ตัว ใน ห้อง 941", "entities": [{"start": 0, "end": 7, "label": "EQUIPMENT"}, {"start": 8, "end": 13, "label": "ISSUE"}, {"start": 31, "end": 34, "label": "ROOM"}]}
+{"text": "ขา เก้าอี้ ชำรุด ใน ห้อง 961 หลาย ตัว", "entities": [{"start": 3, "end": 10, "label": "EQUIPMENT"}, {"start": 11, "end": 16, "label": "ISSUE"}, {"start": 25, "end": 28, "label": "ROOM"}]}
+{"text": "เก้าอี้ ชำรุด หลาย ตัว ใน ห้อง 941", "entities": [{"start": 0, "end": 7, "label": "EQUIPMENT"}, {"start": 8, "end": 13, "label": "ISSUE"}, {"start": 31, "end": 34, "label": "ROOM"}]}
+{"text": "เครื่องพิมพ์ เอกสารหมึก หมดห้อง 950", "entities": [{"start": 0, "end": 19, "label": "EQUIPMENT"}, {"start": 19, "end": 27, "label": "ISSUE"}, {"start": 32, "end": 35, "label": "ROOM"}]}
+{"text": "ห้อง 962 ขา เก้าอี้ ชำรุด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 12, "end": 19, "label": "EQUIPMENT"}, {"start": 20, "end": 25, "label": "ISSUE"}]}
+{"text": "เครื่อง โปรเจคเตอร์ห้อง 962 ชำรุด ใช้งาน ไม่ได้", "entities": [{"start": 0, "end": 19, "label": "EQUIPMENT"}, {"start": 24, "end": 27, "label": "ROOM"}, {"start": 34, "end": 47, "label": "ISSUE"}]}
+{"text": "ช่อง เสียบสายแลนใน ห้อง 983 ชำรุด หลาย จุด", "entities": [{"start": 0, "end": 16, "label": "EQUIPMENT"}, {"start": 24, "end": 27, "label": "ROOM"}, {"start": 28, "end": 33, "label": "ISSUE"}]}
+{"text": "ใน ห้อง 953 คอมพิวเตอร์ บาง เครื่องใช้ อินเทอร์เน็ตไม่ได้เลย", "entities": [{"start": 8, "end": 11, "label": "ROOM"}, {"start": 28, "end": 57, "label": "ISSUE"}]}
+{"text": "ห้อง 941 สัญญาณ อินเทอร์เน็ตเปิด ไม่ได้", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 28, "label": "EQUIPMENT"}, {"start": 28, "end": 39, "label": "ISSUE"}]}
+{"text": "ห้อง 953 คอม บาง เครื่อง เปิด ไม่ติดแล้วก็ cpu ใช้ได้ แต่ หน้าจอ ไม่ ติด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 12, "label": "EQUIPMENT"}, {"start": 25, "end": 36, "label": "ISSUE"}]}
+{"text": "เก้าอี้ ห้อง 963 พำนัก พิง พัง ใช้งาน ไม่ได้หลาย ตัว", "entities": [{"start": 0, "end": 7, "label": "EQUIPMENT"}, {"start": 13, "end": 16, "label": "ROOM"}, {"start": 31, "end": 44, "label": "ISSUE"}]}
+{"text": "หลอดไฟ ใน ห้อง 961 กระพริบ", "entities": [{"start": 0, "end": 6, "label": "EQUIPMENT"}, {"start": 15, "end": 18, "label": "ROOM"}, {"start": 19, "end": 26, "label": "ISSUE"}]}
+{"text": "vpn ไม่ สามารถเชื่อมต่อได้ใน ห้อง 983", "entities": [{"start": 0, "end": 3, "label": "EQUIPMENT"}, {"start": 4, "end": 26, "label": "ISSUE"}, {"start": 34, "end": 37, "label": "ROOM"}]}
+{"text": "เครื่องปรับอากาศ ใน ห้อง 950 เปิด ไม่ได้", "entities": [{"start": 0, "end": 16, "label": "EQUIPMENT"}, {"start": 25, "end": 28, "label": "ROOM"}, {"start": 29, "end": 40, "label": "ISSUE"}]}
+{"text": "เบรก เกอร์ ทริป ใน ห้อง 942 ทำให้ ใช้งาน เครื่องคอมพิวเตอร์ ไม่ ได้", "entities": [{"start": 24, "end": 27, "label": "ROOM"}, {"start": 41, "end": 59, "label": "EQUIPMENT"}, {"start": 60, "end": 67, "label": "ISSUE"}]}
+{"text": "เก้าอี้ ชำรุด ใน ห้อง 941", "entities": [{"start": 0, "end": 7, "label": "EQUIPMENT"}, {"start": 8, "end": 13, "label": "ISSUE"}, {"start": 22, "end": 25, "label": "ROOM"}]}
+{"text": "คอมพิวเตอร์ notebookห้อง 962 แบต เตอร์รี่เสื่อม", "entities": [{"start": 0, "end": 20, "label": "EQUIPMENT"}, {"start": 25, "end": 28, "label": "ROOM"}, {"start": 29, "end": 47, "label": "ISSUE"}]}
+{"text": "สัญญาณ wi-fi ใน ห้อง 982 อ่อน มาก และ ไม่ เสถียร", "entities": [{"start": 7, "end": 12, "label": "EQUIPMENT"}, {"start": 21, "end": 24, "label": "ROOM"}, {"start": 38, "end": 48, "label": "ISSUE"}]}
+{"text": "ห้อง 960 เครื่อง printหมึก หมด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 22, "label": "EQUIPMENT"}, {"start": 22, "end": 30, "label": "ISSUE"}]}
+{"text": "เครื่อง โปรเจคเตอร์ห้อง 941 เปิด ไม่ติด", "entities": [{"start": 0, "end": 19, "label": "EQUIPMENT"}, {"start": 24, "end": 27, "label": "ROOM"}, {"start": 28, "end": 39, "label": "ISSUE"}]}
+{"text": "เครื่องคอมพิวเตอร์ หน่อย ความจำ เต็ม และ บาง เครื่อง ก็ เกือบ เต็ม ใช้งาน ได้ ไม่ สะดวก ใน ห้อง 962", "entities": [{"start": 0, "end": 18, "label": "EQUIPMENT"}, {"start": 96, "end": 99, "label": "ROOM"}]}
+{"text": "เกิด ปัญหากับ การใช้งาน vpn ใน ห้อง 942", "entities": [{"start": 0, "end": 10, "label": "ISSUE"}, {"start": 24, "end": 27, "label": "EQUIPMENT"}, {"start": 36, "end": 39, "label": "ROOM"}]}
+{"text": "พำนัก แขน เก้าอี้ ชำรุด ใน ห้อง 961", "entities": [{"start": 10, "end": 17, "label": "EQUIPMENT"}, {"start": 18, "end": 23, "label": "ISSUE"}, {"start": 32, "end": 35, "label": "ROOM"}]}
+{"text": "เครื่องคอมพิวเตอร์ เปิด ไม่ติดห้อง 982", "entities": [{"start": 0, "end": 18, "label": "EQUIPMENT"}, {"start": 19, "end": 30, "label": "ISSUE"}, {"start": 35, "end": 38, "label": "ROOM"}]}
+{"text": "ห้อง 961 เครื่องพิมพ์ เอกสารพิมพ์ แล้ว หมึก จาง", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 28, "label": "EQUIPMENT"}, {"start": 39, "end": 47, "label": "ISSUE"}]}
+{"text": "ช่อง เสียบสายสัญญาณอินเทอร์เน็ตติดๆ ดับๆใน ห้อง 953", "entities": [{"start": 0, "end": 31, "label": "EQUIPMENT"}, {"start": 31, "end": 40, "label": "ISSUE"}, {"start": 48, "end": 51, "label": "ROOM"}]}
+{"text": "เครื่อง ups ห้อง 942 ใช้งาน ไม่ได้", "entities": [{"start": 8, "end": 11, "label": "EQUIPMENT"}, {"start": 17, "end": 20, "label": "ROOM"}, {"start": 21, "end": 34, "label": "ISSUE"}]}
+{"text": "ห้อง 963 เบรก เกอร์ off คอมพิวเตอร์ เปิด ไม่ได้", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 24, "end": 35, "label": "EQUIPMENT"}, {"start": 36, "end": 47, "label": "ISSUE"}]}
+{"text": "สี โปรเจคเตอร์ แสดงผล สี เพี้ยนใน ห้อง 983", "entities": [{"start": 3, "end": 14, "label": "EQUIPMENT"}, {"start": 22, "end": 31, "label": "ISSUE"}, {"start": 39, "end": 42, "label": "ROOM"}]}
+{"text": "ไม่ โค ร โฟน ใน ห้อง 953 บางครั้ง เห มือ มี กระแสไฟ ดูด", "entities": [{"start": 21, "end": 24, "label": "ROOM"}, {"start": 44, "end": 55, "label": "ISSUE"}]}
+{"text": "สัญญาณ wi-fi ห้อง 982 ขาด ๆหายๆ", "entities": [{"start": 7, "end": 12, "label": "EQUIPMENT"}, {"start": 18, "end": 21, "label": "ROOM"}, {"start": 22, "end": 31, "label": "ISSUE"}]}
+{"text": "internet ติดๆ ดับๆใน ห้อง 953", "entities": [{"start": 0, "end": 8, "label": "EQUIPMENT"}, {"start": 9, "end": 18, "label": "ISSUE"}, {"start": 26, "end": 29, "label": "ROOM"}]}
+{"text": "ห้อง 963 wi-fi ใช้งาน ไม่ได้", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 14, "label": "EQUIPMENT"}, {"start": 15, "end": 28, "label": "ISSUE"}]}
+{"text": "aircontaining เสีย ใน ห้อง 961", "entities": [{"start": 0, "end": 13, "label": "EQUIPMENT"}, {"start": 14, "end": 18, "label": "ISSUE"}, {"start": 27, "end": 30, "label": "ROOM"}]}
+{"text": "เบรก เกอร์off ใน ห้อง 982", "entities": [{"start": 0, "end": 10, "label": "EQUIPMENT"}, {"start": 10, "end": 13, "label": "ISSUE"}, {"start": 22, "end": 25, "label": "ROOM"}]}
+{"text": "คอมพิวเตอร์ notebookห้อง 961 แบต เตอร์ รี เสื่อม", "entities": [{"start": 0, "end": 20, "label": "EQUIPMENT"}, {"start": 25, "end": 28, "label": "ROOM"}]}
+{"text": "airconditioning มี เสียงดัง เป็นระยะๆเมื่อ ใช้งาน ประมาณ 30 นาที ขึ้นไป", "entities": [{"start": 0, "end": 15, "label": "EQUIPMENT"}, {"start": 19, "end": 37, "label": "ISSUE"}]}
+{"text": "projector ห้อง 953 ติดๆ ดับๆ", "entities": [{"start": 0, "end": 9, "label": "EQUIPMENT"}, {"start": 15, "end": 18, "label": "ROOM"}, {"start": 19, "end": 28, "label": "ISSUE"}]}
+{"text": "เครื่อง printห้อง 961 หมึก หมด", "entities": [{"start": 0, "end": 13, "label": "EQUIPMENT"}, {"start": 18, "end": 21, "label": "ROOM"}, {"start": 22, "end": 30, "label": "ISSUE"}]}
+{"text": "ขา เก้าอี้ หัก ใช้งาน ไม่ได้ใน ห้อง 942", "entities": [{"start": 3, "end": 10, "label": "EQUIPMENT"}, {"start": 15, "end": 28, "label": "ISSUE"}, {"start": 36, "end": 39, "label": "ROOM"}]}
+{"text": "เครื่อง สำรอง ไฟ มีเสียง เป็นพักๆใน ห้อง 942", "entities": [{"start": 17, "end": 33, "label": "ISSUE"}, {"start": 41, "end": 44, "label": "ROOM"}]}
+{"text": "ห้อง 963 สัญญาณ อินเทอร์เน็ตขาด ๆหายๆ", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 28, "label": "EQUIPMENT"}, {"start": 28, "end": 37, "label": "ISSUE"}]}
+{"text": "โปรเจคเตอร์ แสดงผล สี ไม่ปกติห้อง 982", "entities": [{"start": 0, "end": 11, "label": "EQUIPMENT"}, {"start": 19, "end": 29, "label": "ISSUE"}, {"start": 34, "end": 37, "label": "ROOM"}]}
+{"text": "ห้อง 953 เครื่องคอมพิวเตอร์ เก่า มาก", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 27, "label": "EQUIPMENT"}, {"start": 28, "end": 32, "label": "ISSUE"}]}
+{"text": "projector ใน ห้อง 963 สาย hdmi ใช้งาน ได้ ไม่ เสถียร", "entities": [{"start": 0, "end": 9, "label": "EQUIPMENT"}, {"start": 18, "end": 21, "label": "ROOM"}, {"start": 42, "end": 52, "label": "ISSUE"}]}
+{"text": "เครื่อง โปรเจคเตอร์ห้อง 953 สี ไม่ปกติ", "entities": [{"start": 0, "end": 19, "label": "EQUIPMENT"}, {"start": 24, "end": 27, "label": "ROOM"}, {"start": 28, "end": 38, "label": "ISSUE"}]}
+{"text": "เครื่องคอมพิวเตอร์ บาง เครื่อง ติดตั้ง ซอฟต์แวร์ แล้ว มีปัญหา ใช้งาน ไม่ได้ใน ห้อง 963", "entities": [{"start": 0, "end": 18, "label": "EQUIPMENT"}, {"start": 62, "end": 75, "label": "ISSUE"}, {"start": 83, "end": 86, "label": "ROOM"}]}
+{"text": "ห้อง 953 เครื่องคอมพิวเตอร์ บาง เครื่อง ติดตั้ง วอฟต์แวร์ ไม่ ได้", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 27, "label": "EQUIPMENT"}, {"start": 58, "end": 65, "label": "ISSUE"}]}
+{"text": "ห้อง 982 เครื่อง ups เปิด ไม่ติด", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 17, "end": 20, "label": "EQUIPMENT"}, {"start": 21, "end": 32, "label": "ISSUE"}]}
+{"text": "สาย hdmiที่ เชื่อมต่อ ใน ห้อง 942 ไม่ เสถียร", "entities": [{"start": 0, "end": 8, "label": "EQUIPMENT"}, {"start": 30, "end": 33, "label": "ROOM"}, {"start": 34, "end": 44, "label": "ISSUE"}]}
+{"text": "ห้อง 941 โปรเจคเตอร์ แสดง ผลได้ไม่ดี", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 20, "label": "EQUIPMENT"}, {"start": 21, "end": 36, "label": "ISSUE"}]}
+{"text": "กระดาน หน้าห้องลบ ไม่สะอาดใน ห้อง 953", "entities": [{"start": 0, "end": 15, "label": "EQUIPMENT"}, {"start": 15, "end": 26, "label": "ISSUE"}, {"start": 34, "end": 37, "label": "ROOM"}]}
+{"text": "โปรเจคเตอร์ แสดงผล สี เพี้ยนใน ห้อง 953", "entities": [{"start": 0, "end": 11, "label": "EQUIPMENT"}, {"start": 19, "end": 28, "label": "ISSUE"}, {"start": 36, "end": 39, "label": "ROOM"}]}
+{"text": "ห้อง 953 เครื่องคอมพิวเตอร์ บาง เครื่อง ติดตั้ง ซอฟต์แวร์ไม่ได้", "entities": [{"start": 5, "end": 8, "label": "ROOM"}, {"start": 9, "end": 27, "label": "EQUIPMENT"}, {"start": 40, "end": 63, "label": "ISSUE"}]}
+{"text": "เครื่อง ups ใน ห้อง 942 มี เสียงดัง เป็นระยะๆ", "entities": [{"start": 8, "end": 11, "label": "EQUIPMENT"}, {"start": 20, "end": 23, "label": "ROOM"}, {"start": 27, "end": 45, "label": "ISSUE"}]}

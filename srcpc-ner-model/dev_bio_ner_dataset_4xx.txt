@@ -1,0 +1,789 @@
+แอร์ B-EQUIPMENT
+ห้อง O
+982 B-ROOM
+ไม่ B-ISSUE
+เย็น I-ISSUE
+
+เบรก O
+เกอร์ O
+ใน O
+ห้อง O
+962 B-ROOM
+ทริป O
+ทำให้ O
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+เก้าอี้ B-EQUIPMENT
+ล้อ O
+ชำรุด B-ISSUE
+ใน O
+ห้อง O
+941 B-ROOM
+
+ห้องน้ำ O
+ห้อง O
+950 B-ROOM
+ฝา O
+ชักโครก B-EQUIPMENT
+ชำรุด B-ISSUE
+
+แอร์ B-EQUIPMENT
+ใน O
+ห้อง O
+963 B-ROOM
+เสียงดัง B-ISSUE
+เป็นพักๆ O
+
+ห้อง O
+961 B-ROOM
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+หมึก B-ISSUE
+หมด I-ISSUE
+
+สาย O
+vga O
+ใน O
+ห้อง O
+953 B-ROOM
+เชื่อมต่อ O
+โปรเจคเตอร์ B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+ห้อง O
+962 B-ROOM
+ช่อง B-EQUIPMENT
+เสียบ B-ISSUE
+สาย I-EQUIPMENT
+แลน I-EQUIPMENT
+ไม่ O
+ดี O
+
+เครื่องปรับอากาศ B-EQUIPMENT
+ห้อง O
+962 B-ROOM
+เปิด B-ISSUE
+ไม่ I-ISSUE
+ติด I-ISSUE
+
+ห้อง O
+960 B-ROOM
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+หมึก B-ISSUE
+หมด I-ISSUE
+
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+เสียงดัง B-ISSUE
+เป็น O
+บางครั้ง O
+ใน O
+ห้อง O
+941 B-ROOM
+
+ห้อง O
+961 B-ROOM
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+หมึก B-ISSUE
+จาง I-ISSUE
+
+ห้อง O
+953 B-ROOM
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+เครื่อง O
+เก่า B-ISSUE
+มาก O
+
+เครื่อง B-EQUIPMENT
+โปรเจคเตอร์ I-EQUIPMENT
+ห้อง O
+941 B-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+ห้อง O
+941 B-ROOM
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+ที่ O
+ใช้งาน O
+อยู่ O
+ทำงาน B-ISSUE
+ช้า I-ISSUE
+มาก O
+
+เครื่อง B-EQUIPMENT
+สำรอง I-EQUIPMENT
+ไฟ I-EQUIPMENT
+เสียงดัง B-ISSUE
+เป็นระยะๆ I-ISSUE
+ใน O
+ห้อง O
+983 B-ROOM
+
+สาย O
+เ O
+เลน O
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+หลาย O
+จุด O
+ใน O
+ห้อง O
+953 B-ROOM
+
+พำนัก O
+แขน O
+เก้าอี้ B-EQUIPMENT
+ชำรุด B-ISSUE
+ใน O
+ห้อง O
+953 B-ROOM
+
+เปิด B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+กระดาน B-EQUIPMENT
+หน้า I-EQUIPMENT
+ห้อง I-EQUIPMENT
+ลบ O
+ไม่ O
+สะอาด O
+ห้อง O
+941 B-ROOM
+
+ลำโพง O
+และ O
+ไมโครโฟน B-EQUIPMENT
+ใน O
+ห้อง O
+953 B-ROOM
+เสียง O
+ขาด O
+ๆ O
+หาย O
+ๆ O
+และ O
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+
+เครื่องปรับอากาศ B-EQUIPMENT
+เสียงดัง B-ISSUE
+ใน O
+ห้อง O
+952 B-ROOM
+
+สัญญาณ O
+อินเทอร์เน็ต B-EQUIPMENT
+ใน O
+ห้อง O
+950 B-ROOM
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+
+ห้อง O
+963 B-ROOM
+wi-fi B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+โปรเจคเตอร์ B-EQUIPMENT
+แสดงผล O
+สี B-ISSUE
+ไม่ I-ISSUE
+ปกติ I-ISSUE
+ห้อง O
+962 B-ROOM
+
+ห้อง O
+963 B-ROOM
+สัญญาณ O
+wi-fi B-EQUIPMENT
+ติดๆ B-ISSUE
+ดับ I-ISSUE
+ๆ I-ISSUE
+
+เบรก B-EQUIPMENT
+เกอร์ I-EQUIPMENT
+ไฟ O
+ทริป O
+ทำให้ O
+ไฟฟ้า O
+ใน O
+ห้อง O
+942 B-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+เลย O
+
+เบรก B-EQUIPMENT
+เกอร์ I-EQUIPMENT
+ไฟฟ้า O
+ทริป B-ISSUE
+ใน O
+ห้อง O
+942 B-ROOM
+
+ห้อง O
+961 B-ROOM
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+โน้ตบุ๊ค I-EQUIPMENT
+คีย์บอร์ด O
+กดปุ่ม O
+ไม่ B-ISSUE
+ได้ I-ISSUE
+
+อินเทอร์เน็ต B-EQUIPMENT
+ใช้ได้ O
+บ้าง O
+ใน O
+บางครั้ง O
+ซึ่ง O
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+ใน O
+ห้อง O
+962 B-ROOM
+
+ห้อง O
+941 B-ROOM
+เบรก B-EQUIPMENT
+เกอร์ I-EQUIPMENT
+ทริป O
+ใช้งาน O
+ระบบ O
+ไฟฟ้า O
+ไม่ B-ISSUE
+ได้ I-ISSUE
+
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+บาง O
+เครื่อง O
+ใช้งาน O
+อินเทอร์เน็ต O
+ไม่ B-ISSUE
+ได้ I-ISSUE
+ของ O
+ห้อง O
+953 B-ROOM
+
+ห้อง O
+953 B-ROOM
+ช่อง B-EQUIPMENT
+เสียบ I-EQUIPMENT
+สาย I-EQUIPMENT
+แลน I-EQUIPMENT
+ชำรุด B-ISSUE
+หลาย O
+ช่อง O
+
+ห้อง O
+962 B-ROOM
+เครื่อง B-EQUIPMENT
+โปรเจคเตอร์ I-EQUIPMENT
+แสดงผล B-ISSUE
+ไม่ I-ISSUE
+ชัด I-ISSUE
+
+ห้อง O
+983 B-ROOM
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+บาง O
+เครื่อง O
+
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+ทำงาน B-ISSUE
+ช้า I-ISSUE
+มาก O
+ใน O
+ห้อง O
+953 B-ROOM
+
+เกิด B-ISSUE
+ปัญหา I-ISSUE
+กับ O
+การใช้งาน O
+vpn B-EQUIPMENT
+ใน O
+ห้อง O
+942 B-ROOM
+
+หน้าจอ O
+โปรเจคเตอร์ B-EQUIPMENT
+กระพริบ B-ISSUE
+ใน O
+ห้อง O
+962 B-ROOM
+
+สี O
+โปรเจคเตอร์ B-EQUIPMENT
+แสดงผล O
+สี B-ISSUE
+เพี้ยน I-ISSUE
+ใน O
+ห้อง O
+983 B-ROOM
+
+ช่อง B-EQUIPMENT
+เสียบ I-EQUIPMENT
+สาย I-EQUIPMENT
+แลน I-EQUIPMENT
+ใน O
+ห้อง O
+941 B-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+สาย B-EQUIPMENT
+แลน I-EQUIPMENT
+ไม่ B-ISSUE
+สามารถ I-ISSUE
+ใช้งาน I-ISSUE
+ได้ I-ISSUE
+หลาย O
+จุด O
+ใน O
+ห้อง O
+953 B-ROOM
+
+กระดาน B-EQUIPMENT
+หน้า I-EQUIPMENT
+ห้อง I-EQUIPMENT
+983 B-ROOM
+ลบ O
+ไม่ B-ISSUE
+สะอาด I-ISSUE
+
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+ห้อง O
+961 B-ROOM
+หมึก B-ISSUE
+หมด I-ISSUE
+
+คอมพิวเตอร์ O
+ห้อง O
+953 B-ROOM
+ส่วนใหญ่ O
+ใช้งาน O
+ไม่ O
+ดี O
+เนื่องจาก O
+อินเทอร์เน็ต B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+เก้าอี้ B-EQUIPMENT
+ล้อ O
+ชำรุด O
+หลาย O
+ตัว O
+ใน O
+ห้อง O
+953 B-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+โน๊ตบุ๊ค O
+ใน O
+ห้อง O
+961 B-ROOM
+แบต B-ISSUE
+เตอร์ I-ISSUE
+รี่ I-ISSUE
+เสื่อม I-ISSUE
+
+ห้อง O
+953 B-ROOM
+กระดาน B-EQUIPMENT
+หน้า I-EQUIPMENT
+ห้อง I-EQUIPMENT
+ลบ O
+ปากกา O
+ออก O
+ไม่ B-ISSUE
+สะอาด I-ISSUE
+เลย O
+
+สัญญาณ O
+อินเทอร์เน็ต B-EQUIPMENT
+ห้อง O
+942 B-ROOM
+ไม่ O
+ดี O
+
+ห้อง O
+953 B-ROOM
+ช่อง B-EQUIPMENT
+เสียบ I-EQUIPMENT
+สาย I-EQUIPMENT
+แลน I-EQUIPMENT
+ชำรุด B-ISSUE
+หลาย O
+จุด O
+
+ห้อง O
+963 B-ROOM
+เจอ O
+ปัญหา O
+เรื่อง O
+สาย O
+เชื่อมต่อ O
+โปรเจคเตอร์ B-EQUIPMENT
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+
+เก้าอี้ B-EQUIPMENT
+ห้อง O
+963 B-ROOM
+พำนัก O
+พิง O
+พัง O
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+หลาย O
+ตัว O
+
+ห้อง O
+962 B-ROOM
+ขา O
+เก้าอี้ B-EQUIPMENT
+ชำรุด B-ISSUE
+
+ไมโครโฟน B-EQUIPMENT
+ใน O
+ห้อง O
+953 B-ROOM
+บางครั้ง O
+กระแสไฟ B-ISSUE
+ดูด I-ISSUE
+
+เครื่องพิมพ์ B-EQUIPMENT
+หมึก B-ISSUE
+หมด I-ISSUE
+ใน O
+ห้อง O
+960 B-ROOM
+
+ห้อง O
+962 B-ROOM
+ปลั๊กไฟ O
+บน O
+โต๊ะ O
+คอมพิวเตอร์ B-EQUIPMENT
+ไม่ B-ISSUE
+ติด I-ISSUE
+
+ห้อง O
+942 B-ROOM
+การ O
+ติดตั้ง O
+ซอฟต์แวร์ B-EQUIPMENT
+มีปัญหา O
+เนื่องจาก O
+ติดตั้ง B-ISSUE
+ไม่ I-ISSUE
+สำเร็จ I-ISSUE
+
+wi-fi B-EQUIPMENT
+ใน O
+ห้อง O
+973 B-ROOM
+สัญญาณ B-ISSUE
+ไม่ I-ISSUE
+เสถียร I-ISSUE
+
+ห้อง O
+941 B-ROOM
+คอมพิวเตอร์ B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+เมาส์ O
+คอมพิวเตอร์ B-EQUIPMENT
+ใน O
+ห้อง O
+962 B-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+หลาย O
+เครื่อง O
+
+เบรก B-EQUIPMENT
+เกอร์ I-EQUIPMENT
+ทริป B-ISSUE
+ใน O
+ห้อง O
+982 B-ROOM
+
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+หมึก O
+หมด O
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+ใน O
+ห้อง O
+950 B-ROOM
+
+สัญญาณ O
+wi-fi B-EQUIPMENT
+ใน O
+ห้อง O
+982 B-ROOM
+อ่อน O
+มาก O
+และ O
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+
+สัญญาณ O
+อินเทอร์เน็ต B-EQUIPMENT
+ห้อง O
+962 B-ROOM
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+เท่าไหร่ O
+ติด O
+ตๆ O
+ดับ O
+ๆ O
+บ่อย O
+
+สัญญาณ O
+wi-fi B-EQUIPMENT
+ห้อง O
+982 B-ROOM
+สัญญาณ B-ISSUE
+ไม่ I-ISSUE
+เสถียร I-ISSUE
+ทำงาน O
+ได้ O
+ไม่ O
+คงที่ O
+
+ไมโครโฟน B-EQUIPMENT
+ใน O
+ห้อง O
+952 B-ROOM
+ใช้งาน O
+ได้ O
+บ้าง O
+ไม่ B-ISSUE
+ได้ I-ISSUE
+บ้าง O
+
+ช่อง B-EQUIPMENT
+เสียบ I-EQUIPMENT
+สาย I-EQUIPMENT
+แลน I-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+และ O
+ไม่ O
+สัญญาณ O
+อินเทอร์เน็ต O
+ใน O
+ห้อง O
+941 B-ROOM
+
+แอร์ B-EQUIPMENT
+เสียง O
+เป็นพักๆ B-ISSUE
+ใน O
+ห้อง O
+941 B-ROOM
+
+คอมพิวเตอร์ B-EQUIPMENT
+ห้อง O
+953 B-ROOM
+ส่วนใหญ่ O
+จอ O
+เปิด B-ISSUE
+ไม่ I-ISSUE
+ติด I-ISSUE
+
+ช่อง B-EQUIPMENT
+เสียบ I-EQUIPMENT
+สาย I-EQUIPMENT
+สัญญาณ I-EQUIPMENT
+อินเทอร์เน็ต I-EQUIPMENT
+ติดๆ B-ISSUE
+ดับ I-ISSUE
+ๆ I-ISSUE
+ใน O
+ห้อง O
+953 B-ROOM
+
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+ใน O
+ห้อง O
+950 B-ROOM
+
+พำนัก O
+แขน O
+เก้าอี้ B-EQUIPMENT
+ชำรุด B-ISSUE
+ใน O
+ห้อง O
+961 B-ROOM
+
+เบรก O
+เกอร์ O
+ทริป O
+ใน O
+ห้อง O
+941 B-ROOM
+ทำให้ O
+ใช้งาน O
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+ไม่ B-ISSUE
+ได้ I-ISSUE
+
+ช่อง O
+เสียบ O
+สาย O
+อินเทอร์เน็ต B-EQUIPMENT
+ห้อง O
+953 B-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+ก๊อกน้ำ O
+ห้องน้ำ B-EQUIPMENT
+อาคาร B-ROOM
+9 I-ROOM
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+บาง O
+จุด O
+
+ห้อง O
+961 B-ROOM
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+พิมพ์ O
+เอกสาร O
+ไม่ B-ISSUE
+ได้ I-ISSUE
+
+เครื่องปรับอากาศ B-EQUIPMENT
+ใน O
+ห้อง O
+963 B-ROOM
+เสียงดัง B-ISSUE
+เป็นระยะๆ I-ISSUE
+เมื่อ O
+ใช้งาน O
+ประมาณ O
+30 O
+นาที O
+ขึ้นไป O
+
+โปรเจคเตอร์ B-EQUIPMENT
+ห้อง O
+953 B-ROOM
+ติดๆ B-ISSUE
+ดับ I-ISSUE
+ๆ I-ISSUE
+
+ห้อง O
+983 B-ROOM
+ช่อง B-EQUIPMENT
+เสียบ I-EQUIPMENT
+สาย I-EQUIPMENT
+สัญญาณ I-EQUIPMENT
+อินเทอร์เน็ต I-EQUIPMENT
+ชำรุด B-ISSUE
+
+ห้อง O
+953 B-ROOM
+คอม B-EQUIPMENT
+บาง O
+เครื่อง O
+ใช้งาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+ห้อง O
+963 B-ROOM
+เครื่อง B-EQUIPMENT
+โปรเจคเตอร์ I-EQUIPMENT
+แสดงผล O
+สี B-ISSUE
+เพี้ยน I-ISSUE
+
+ห้อง O
+953 B-ROOM
+เครื่องคอมพิวเตอร์ B-EQUIPMENT
+บาง O
+เครื่อง O
+ติดตั้ง B-ISSUE
+ซอฟต์แวร์ I-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+โปรเจคเตอร์ B-EQUIPMENT
+แสดงผล O
+สี B-ISSUE
+ไม่ I-ISSUE
+ปกติ I-ISSUE
+ห้อง O
+982 B-ROOM
+
+ห้อง O
+961 B-ROOM
+ขา O
+เก้าอี้ B-EQUIPMENT
+และ O
+พำนัก O
+แขน O
+ชำรุด B-ISSUE
+หลาย O
+ตัว O
+
+โปรเจคเตอร์ B-EQUIPMENT
+ใน O
+ห้อง O
+963 B-ROOM
+สาย O
+hdmi O
+ใช้งาน O
+ได้ O
+ไม่ B-ISSUE
+เสถียร I-ISSUE
+
+เครื่อง B-EQUIPMENT
+โปรเจคเตอร์ I-EQUIPMENT
+ห้อง O
+953 B-ROOM
+สี B-ISSUE
+ไม่ I-ISSUE
+ปกติ I-ISSUE
+

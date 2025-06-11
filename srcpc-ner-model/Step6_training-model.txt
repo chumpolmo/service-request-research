@@ -1,0 +1,12 @@
+สร้างไฟล์ config.cfg สำหรับเทรนโมเดล:
+--
+สร้าง config:
+$ python -m spacy init config config.cfg --lang th --pipeline ner
+
+เริ่มฝึก:
+$ python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./train.spacy
+
+Example:
+$ python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./test.spacy --initialize.vectors ./my_thai_vectors/
+
+$ python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy

@@ -1,0 +1,29 @@
+ห้อง O
+  O
+953 B-ROOM
+  O
+เครื่อง B-EQUIPMENT
+โปรเจคเตอร์ I-EQUIPMENT
+ทำงาน B-ISSUE
+ไม่ I-ISSUE
+ได้ I-ISSUE
+
+ห้อง O
+  O
+961 B-ROOM
+  O
+เครื่องพิมพ์ B-EQUIPMENT
+เอกสาร I-EQUIPMENT
+หมึก B-ISSUE
+หมด I-ISSUE
+
+เครื่อง B-EQUIPMENT
+สำรอง I-EQUIPMENT
+ไฟ I-EQUIPMENT
+เสียงดัง B-ISSUE
+เป็นระยะ O
+ใน O
+ห้อง O
+  O
+983 B-ROOM
+

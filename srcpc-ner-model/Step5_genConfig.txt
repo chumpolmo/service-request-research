@@ -1,0 +1,18 @@
+Step 4: config.cfg
+--
+[nlp]
+pipeline = ["transformer", "ner"]
+
+[components.ner]
+factory = "ner"
+
+[components.ner.model]
+@architectures = "spacy.TransitionBasedParser.v2"
+state_type = "ner"
+
+[components.ner.model.tok2vec]
+@architectures = "spacy-transformers.Tok2VecTransformer.v3"
+...
+
+[Generate Config]
+$ python -m spacy init config config.cfg --lang th --pipeline ner --optimize accuracy --force

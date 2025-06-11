@@ -1,0 +1,84 @@
+{"text": "แอร์ห้อง982ไม่เย็น", "annotations": {"entities": [[0, 4, "EQUIPMENT"], [8, 11, "ROOM"], [11, 18, "ISSUE"]]}}
+{"text": "เบรกเกอร์ในห้อง962ทริปทำให้เครื่องคอมพิวเตอร์ใช้งานไม่ได้", "annotations": {"entities": [[15, 18, "ROOM"], [27, 45, "EQUIPMENT"], [45, 57, "ISSUE"]]}}
+{"text": "เก้าอี้ล้อชำรุดในห้อง941", "annotations": {"entities": [[0, 7, "EQUIPMENT"], [10, 15, "ISSUE"], [21, 24, "ROOM"]]}}
+{"text": "ห้องน้ำห้อง950ฝาชักโครกชำรุด", "annotations": {"entities": [[0, 7, "EQUIPMENT"], [11, 14, "ROOM"], [23, 28, "ISSUE"]]}}
+{"text": "แอร์ในห้อง963เสียงดังเป็นพักๆ", "annotations": {"entities": [[0, 4, "EQUIPMENT"], [10, 13, "ROOM"], [13, 21, "ISSUE"]]}}
+{"text": "ห้อง961เครื่องพิมพ์เอกสารหมึกหมด", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [25, 32, "ISSUE"]]}}
+{"text": "สายvgaในห้อง953เชื่อมต่อโปรเจคเตอร์ใช้งานไม่ได้", "annotations": {"entities": [[12, 15, "ROOM"], [24, 35, "EQUIPMENT"], [35, 47, "ISSUE"]]}}
+{"text": "ห้อง962ช่องเสียบสายแลนไม่ดี", "annotations": {"entities": [[4, 7, "ROOM"], [7, 11, "EQUIPMENT"], [11, 22, "ISSUE"]]}}
+{"text": "เครื่องปรับอากาศห้อง962เปิดไม่ติด", "annotations": {"entities": [[0, 16, "EQUIPMENT"], [20, 23, "ROOM"], [23, 33, "ISSUE"]]}}
+{"text": "ห้อง960เครื่องพิมพ์เอกสารหมึกหมด", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [25, 32, "ISSUE"]]}}
+{"text": "เครื่องคอมพิวเตอร์เสียงดังเป็นบางครั้งในห้อง941", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [18, 26, "ISSUE"], [44, 47, "ROOM"]]}}
+{"text": "ห้อง961เครื่องพิมพ์เอกสารหมึกจาง", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [25, 32, "ISSUE"]]}}
+{"text": "ห้อง953เครื่องคอมพิวเตอร์เครื่องเก่ามาก", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [32, 36, "ISSUE"]]}}
+{"text": "เครื่องโปรเจคเตอร์ห้อง941ใช้งานไม่ได้", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [22, 25, "ROOM"], [25, 37, "ISSUE"]]}}
+{"text": "ห้อง941เครื่องคอมพิวเตอร์ที่ใช้งานอยู่ทำงานช้ามาก", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"]]}}
+{"text": "เครื่องสำรองไฟเสียงดังเป็นระยะๆในห้อง983", "annotations": {"entities": [[14, 31, "ISSUE"], [37, 40, "ROOM"]]}}
+{"text": "สายเเลนใช้งานไม่ได้หลายจุดในห้อง953", "annotations": {"entities": [[7, 19, "ISSUE"], [32, 35, "ROOM"]]}}
+{"text": "พำนักแขนเก้าอี้ชำรุดในห้อง953", "annotations": {"entities": [[8, 15, "EQUIPMENT"], [15, 20, "ISSUE"], [26, 29, "ROOM"]]}}
+{"text": "เปิดไม่ได้กระดานหน้าห้องลบไม่สะอาดห้อง941", "annotations": {"entities": [[0, 10, "ISSUE"], [10, 24, "EQUIPMENT"], [38, 41, "ROOM"]]}}
+{"text": "ลำโพงและไมโครโฟนในห้อง953เสียงขาดๆหายๆและไม่เสถียร", "annotations": {"entities": [[8, 16, "EQUIPMENT"], [22, 25, "ROOM"], [41, 50, "ISSUE"]]}}
+{"text": "เครื่องปรับอากาศเสียงดังในห้อง952", "annotations": {"entities": [[0, 16, "EQUIPMENT"], [16, 24, "ISSUE"], [30, 33, "ROOM"]]}}
+{"text": "สัญญาณอินเทอร์เน็ตในห้อง950ไม่เสถียร", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [24, 27, "ROOM"], [27, 36, "ISSUE"]]}}
+{"text": "ห้อง963wi-fiใช้งานไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 12, "EQUIPMENT"], [12, 24, "ISSUE"]]}}
+{"text": "โปรเจคเตอร์แสดงผลสีไม่ปกติห้อง962", "annotations": {"entities": [[0, 11, "EQUIPMENT"], [17, 26, "ISSUE"], [30, 33, "ROOM"]]}}
+{"text": "ห้อง963สัญญาณwi-fiติดๆดับๆ", "annotations": {"entities": [[4, 7, "ROOM"], [13, 18, "EQUIPMENT"], [18, 26, "ISSUE"]]}}
+{"text": "เบรกเกอร์ไฟทริปทำให้ไฟฟ้าในห้อง942ใช้งานไม่ได้เลย", "annotations": {"entities": [[0, 9, "EQUIPMENT"], [31, 34, "ROOM"], [34, 46, "ISSUE"]]}}
+{"text": "เบรกเกอร์ไฟฟ้าทริปในห้อง942", "annotations": {"entities": [[0, 9, "EQUIPMENT"], [14, 18, "ISSUE"], [24, 27, "ROOM"]]}}
+{"text": "ห้อง961เครื่องคอมพิวเตอร์โน้ตบุ๊คคีย์บอร์ดกดปุ่มไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 33, "EQUIPMENT"], [48, 54, "ISSUE"]]}}
+{"text": "อินเทอร์เน็ตใช้ได้บ้างในบางครั้งในห้อง962", "annotations": {"entities": [[0, 12, "EQUIPMENT"], [38, 41, "ROOM"]]}}
+{"text": "ห้อง941เบรกเกอร์ทริปใช้งานระบบไฟฟ้าไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 16, "EQUIPMENT"], [35, 41, "ISSUE"]]}}
+{"text": "เครื่องคอมพิวเตอร์บางเครื่องใช้งานอินเทอร์เน็ตไม่ได้ของห้อง953", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [46, 52, "ISSUE"], [59, 62, "ROOM"]]}}
+{"text": "ห้อง953ช่องเสียบสายแลนชำรุดหลายช่อง", "annotations": {"entities": [[4, 7, "ROOM"], [7, 22, "EQUIPMENT"], [22, 27, "ISSUE"]]}}
+{"text": "ห้อง962เครื่องโปรเจคเตอร์ไม่คมชัด", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"]]}}
+{"text": "ห้อง983เครื่องคอมพิวเตอร์ใช้งานไม่ได้บางเครื่อง", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [25, 37, "ISSUE"]]}}
+{"text": "เครื่องคอมพิวเตอร์ทำงานช้ามากในห้อง953", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [35, 38, "ROOM"]]}}
+{"text": "เกิดปัญหากับการใช้งานvpnในห้อง942", "annotations": {"entities": [[0, 9, "ISSUE"], [21, 24, "EQUIPMENT"], [30, 33, "ROOM"]]}}
+{"text": "หน้าจอโปรเจคเตอร์กระพริบในห้อง962", "annotations": {"entities": [[6, 17, "EQUIPMENT"], [17, 24, "ISSUE"], [30, 33, "ROOM"]]}}
+{"text": "สีโปรเจคเตอร์แสดงผลสีเพี้ยนในห้อง983", "annotations": {"entities": [[2, 13, "EQUIPMENT"], [19, 27, "ISSUE"], [33, 36, "ROOM"]]}}
+{"text": "ช่องเสียบสายแลนในห้อง941ใช้งานไม่ได้", "annotations": {"entities": [[0, 15, "EQUIPMENT"], [21, 24, "ROOM"], [24, 36, "ISSUE"]]}}
+{"text": "สายแลนไม่สามารถใช้งานได้หลายจุดในห้อง953", "annotations": {"entities": [[0, 6, "EQUIPMENT"], [6, 24, "ISSUE"], [37, 40, "ROOM"]]}}
+{"text": "กระดานหน้าห้อง983ลบไม่สะอาด", "annotations": {"entities": [[0, 14, "EQUIPMENT"], [14, 17, "ROOM"], [17, 27, "ISSUE"]]}}
+{"text": "เครื่องพิมพ์เอกสารห้อง961หมึกหมด", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [22, 25, "ROOM"], [25, 32, "ISSUE"]]}}
+{"text": "คอมพิวเตอร์ห้อง953ส่วนใหญ่ใช้งานไม่ดีเนื่องจากอินเทอร์เน็ตใช้งานไม่ได้", "annotations": {"entities": [[15, 18, "ROOM"], [46, 58, "EQUIPMENT"], [58, 70, "ISSUE"]]}}
+{"text": "เก้าอี้ล้อชำรุดหลายตัวในห้อง953ใช้งานไม่ได้", "annotations": {"entities": [[0, 7, "EQUIPMENT"], [28, 31, "ROOM"], [31, 43, "ISSUE"]]}}
+{"text": "เครื่องคอมพิวเตอร์โน๊ตบุ๊คในห้อง961แบตเตอร์รี่เสื่อม", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [32, 35, "ROOM"], [35, 52, "ISSUE"]]}}
+{"text": "ห้อง953กระดานหน้าห้องลบปากกาได้ไม่ค่อยสะอาด", "annotations": {"entities": [[4, 7, "ROOM"], [7, 21, "EQUIPMENT"]]}}
+{"text": "สัญญาณอินเทอร์เน็ตห้อง942ไม่ดี", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [22, 25, "ROOM"]]}}
+{"text": "ห้อง953ช่องเสียบสายแลนชำรุดหลายจุด", "annotations": {"entities": [[4, 7, "ROOM"], [7, 22, "EQUIPMENT"], [22, 27, "ISSUE"]]}}
+{"text": "ห้อง963เจอปัญหาเรื่องสายเชื่อมต่อโปรเจคเตอร์", "annotations": {"entities": [[4, 7, "ROOM"], [33, 44, "EQUIPMENT"]]}}
+{"text": "เก้าอี้ห้อง963พำนักพิงพังใช้งานไม่ได้หลายตัว", "annotations": {"entities": [[0, 7, "EQUIPMENT"], [11, 14, "ROOM"], [25, 37, "ISSUE"]]}}
+{"text": "ห้อง962ขาเก้าอี้ชำรุด", "annotations": {"entities": [[4, 7, "ROOM"], [9, 16, "EQUIPMENT"], [16, 21, "ISSUE"]]}}
+{"text": "ไมโครโฟนในห้อง953บางครั้งกระแสไฟดูด", "annotations": {"entities": [[0, 8, "EQUIPMENT"], [14, 17, "ROOM"], [25, 35, "ISSUE"]]}}
+{"text": "เครื่องพิมพ์หมึกหมดในห้อง960", "annotations": {"entities": [[0, 12, "EQUIPMENT"], [12, 19, "ISSUE"], [25, 28, "ROOM"]]}}
+{"text": "ห้อง962ปลั๊กไฟบนโต๊ะคอมพิวเตอร์ไม่ติด", "annotations": {"entities": [[4, 7, "ROOM"], [20, 31, "EQUIPMENT"], [31, 37, "ISSUE"]]}}
+{"text": "ห้อง942การติดตั้งซอฟต์แวร์มีปัญหาไม่สามารถติดตั้งได้สำเร็จ", "annotations": {"entities": [[4, 7, "ROOM"]]}}
+{"text": "wi-fiในห้อง973สัญญาณไม่เสถียร", "annotations": {"entities": [[0, 5, "EQUIPMENT"], [11, 14, "ROOM"], [20, 29, "ISSUE"]]}}
+{"text": "ห้อง941คอมพิวเตอร์ใช้งานไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 18, "EQUIPMENT"], [18, 30, "ISSUE"]]}}
+{"text": "เมาส์คอมพิวเตอร์ในห้อง962ใช้งานไม่ได้หลายเครื่อง", "annotations": {"entities": [[5, 16, "EQUIPMENT"], [22, 25, "ROOM"], [25, 37, "ISSUE"]]}}
+{"text": "เบรกเกอร์ทริปในห้อง982", "annotations": {"entities": [[0, 9, "EQUIPMENT"], [9, 13, "ISSUE"], [19, 22, "ROOM"]]}}
+{"text": "เครื่องพิมพ์เอกสารหมึกหมดใช้งานไม่ได้ในห้อง950", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [25, 37, "ISSUE"], [43, 46, "ROOM"]]}}
+{"text": "สัญญาณwi-fiในห้อง982อ่อนมากและไม่เสถียร", "annotations": {"entities": [[6, 11, "EQUIPMENT"], [17, 20, "ROOM"], [30, 39, "ISSUE"]]}}
+{"text": "สัญญาณอินเทอร์เน็ตห้อง962ไม่ค่อยเสถียร", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [22, 25, "ROOM"]]}}
+{"text": "สัญญาณwi-fiห้อง982สัญญาณไม่คงที่", "annotations": {"entities": [[6, 11, "EQUIPMENT"], [15, 18, "ROOM"]]}}
+{"text": "ไมโครโฟนในห้อง952ใช้งานได้บ้างไม่ได้บ้าง", "annotations": {"entities": [[0, 8, "EQUIPMENT"], [14, 17, "ROOM"], [30, 36, "ISSUE"]]}}
+{"text": "ช่องเสียบสายแลนใช้งานไม่ได้และไม่สัญญาณอินเทอร์เน็ตในห้อง941", "annotations": {"entities": [[15, 27, "ISSUE"], [33, 51, "EQUIPMENT"], [57, 60, "ROOM"]]}}
+{"text": "แอร์เสียงเป็นพักๆในห้อง941", "annotations": {"entities": [[0, 4, "EQUIPMENT"], [9, 17, "ISSUE"], [23, 26, "ROOM"]]}}
+{"text": "คอมพิวเตอร์ห้อง953ส่วนใหญ่จอเปิดไม่ติด", "annotations": {"entities": [[0, 11, "EQUIPMENT"], [15, 18, "ROOM"], [28, 38, "ISSUE"]]}}
+{"text": "ช่องเสียบสายสัญญาณอินเทอร์เน็ตติดๆดับๆในห้อง953", "annotations": {"entities": [[0, 30, "EQUIPMENT"], [30, 38, "ISSUE"], [44, 47, "ROOM"]]}}
+{"text": "เครื่องคอมพิวเตอร์ใช้งานไม่ได้ในห้อง950", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [18, 30, "ISSUE"], [36, 39, "ROOM"]]}}
+{"text": "พำนักแขนเก้าอี้ชำรุดในห้อง961", "annotations": {"entities": [[8, 15, "EQUIPMENT"], [15, 20, "ISSUE"], [26, 29, "ROOM"]]}}
+{"text": "เบรกเกอร์ทริปในห้อง941ทำให้ใช้งานเครื่องคอมพิวเตอร์ไม่ได้", "annotations": {"entities": [[19, 22, "ROOM"], [33, 51, "EQUIPMENT"], [51, 57, "ISSUE"]]}}
+{"text": "ช่องเสียบสายอินเทอร์เน็ตห้อง953ใช้งานไม่ได้", "annotations": {"entities": [[12, 24, "EQUIPMENT"], [28, 31, "ROOM"], [31, 43, "ISSUE"]]}}
+{"text": "ก๊อกน้ำห้องน้ำอาคาร9ใช้งานไม่ได้บางจุด", "annotations": {"entities": [[7, 14, "EQUIPMENT"], [14, 20, "ROOM"], [20, 32, "ISSUE"]]}}
+{"text": "ห้อง961เครื่องพิมพ์เอกสารพิมพ์เอกสารไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [36, 42, "ISSUE"]]}}
+{"text": "เครื่องปรับอากาศในห้อง963เสียงดังเป็นระยะๆเมื่อใช้งานประมาณ30นาทีขึ้นไป", "annotations": {"entities": [[0, 16, "EQUIPMENT"], [22, 25, "ROOM"], [25, 42, "ISSUE"]]}}
+{"text": "โปรเจคเตอร์ห้อง953ติดๆดับๆ", "annotations": {"entities": [[0, 11, "EQUIPMENT"], [15, 18, "ROOM"], [18, 26, "ISSUE"]]}}
+{"text": "ห้อง983ช่องเสียบสายสัญญาณอินเทอร์เน็ตชำรุด", "annotations": {"entities": [[4, 7, "ROOM"], [7, 37, "EQUIPMENT"], [37, 42, "ISSUE"]]}}
+{"text": "ห้อง953คอมบางเครื่องใช้งานไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 10, "EQUIPMENT"], [20, 32, "ISSUE"]]}}
+{"text": "ห้อง963เครื่องโปรเจคเตอร์แสดงผลสีเพี้ยน", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [31, 39, "ISSUE"]]}}
+{"text": "ห้อง953เครื่องคอมพิวเตอร์บางเครื่องติดตั้งซอฟต์แวร์ไม่ได้", "annotations": {"entities": [[4, 7, "ROOM"], [7, 25, "EQUIPMENT"], [35, 57, "ISSUE"]]}}
+{"text": "โปรเจคเตอร์แสดงผลสีไม่ปกติห้อง982", "annotations": {"entities": [[0, 11, "EQUIPMENT"], [17, 26, "ISSUE"], [30, 33, "ROOM"]]}}
+{"text": "ห้อง961ขาเก้าอี้และพำนักแขนชำรุดหลายตัว", "annotations": {"entities": [[4, 7, "ROOM"], [9, 16, "EQUIPMENT"], [27, 32, "ISSUE"]]}}
+{"text": "โปรเจคเตอร์ในห้อง963สายhdmiใช้งานได้ไม่เสถียร", "annotations": {"entities": [[0, 11, "EQUIPMENT"], [17, 20, "ROOM"], [36, 45, "ISSUE"]]}}
+{"text": "เครื่องโปรเจคเตอร์ห้อง953สีไม่ปกติ", "annotations": {"entities": [[0, 18, "EQUIPMENT"], [22, 25, "ROOM"], [25, 34, "ISSUE"]]}}
